@@ -1,0 +1,18 @@
+
+node_modules
+src/
+  controllers
+  models
+  routes
+  services
+  middlewares
+  utils
+  config
+  app.js
+  server.js
+public
+views
+tests
+.env
+package.json
+README.md
